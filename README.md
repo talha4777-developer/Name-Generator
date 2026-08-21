@@ -1,1 +1,1 @@
-# Name-Generator
+# Practice Javascript
